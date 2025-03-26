@@ -3,7 +3,7 @@ This project analyzes credit card transactions to detect fraudulent activity usi
 
 ## 📂 Dataset  
 The dataset is sourced from **Kaggle** and contains transaction details, including numerical features derived from PCA and a binary fraud label (`Class`).
-🔗 [Download Dataset] https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+🔗 Download the dataset : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## 📊 Data Exploration  
 - Checked dataset shape, columns, and statistical summary  
